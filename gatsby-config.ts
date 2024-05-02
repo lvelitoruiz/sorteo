@@ -9,12 +9,14 @@ const config: GatsbyConfig = {
   // If you use VSCode you can also use the GraphQL plugin
   // Learn more at: https://gatsby.dev/graphql-typegen
   graphqlTypegen: true,
-  plugins: [{
-    resolve: 'gatsby-source-wordpress',
-    options: {
-      "url": "http://google.com"
-    }
-  }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-postcss", "gatsby-plugin-sitemap", {
+  plugins: [
+  // {
+  //   resolve: 'gatsby-source-wordpress',
+  //   options: {
+  //     "url": "http://google.com"
+  //   }
+  // },
+  "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-csv", "gatsby-transformer-sharp", "gatsby-plugin-postcss", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
       "icon": "src/images/icon.png"

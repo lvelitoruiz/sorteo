@@ -1,0 +1,422 @@
+AccountType,Player ID,Player Name,TV 43´´ + Popcorn bucket,02 Smartwatch,"S/1,000 in Palms Bet",Total general
+00. TestAccount,60228158,Test Peru,2,0,1,3
+00. TestAccount,60213795,Oleg Sledov,1,0,1,2
+00. TestAccount,60217620,Name Test Surname Test,1,0,1,2
+00. TestAccount,60263721,Test Johana Test Cabrera,1,0,0,1
+00. TestAccount,60221506,Test123 Test123,0,1,0,1
+00. TestAccount TEST,60211559,Alex Eduardo Tornero Cortes,1,0,0,1
+01. StaffAccount,60211564,Saul Valente,14,6,8,28
+01. StaffAccount,60211575,Anthony Veliz,10,6,6,22
+01. StaffAccount,60211566,Victor Octavio Segundo Uceda Lescano,6,8,7,21
+01. StaffAccount,60211574,Maria Teresa Gonzales Plaza,7,2,5,14
+01. StaffAccount,60211573,Ana Maria Mendivil Gutierrez,3,3,0,6
+02. RegularAccount,60249732,Ernesto Gabriel Angel,12,6,8,26
+02. RegularAccount,60242439,Erick Alexander Corzo Hurtado,16,5,5,26
+02. RegularAccount,60222154,Kathia Flores Campos,15,1,8,24
+02. RegularAccount,60251265,Julio Cesar Daniel Sequeiros Sosa,15,5,3,23
+02. RegularAccount,60216474,Jose Santos Namuche Mendoza,13,7,3,23
+02. RegularAccount,60231682,Gian Marcos Rujel Quispe,12,5,6,23
+02. RegularAccount,60227439,Yair Dylan Sequeiros Sosa,9,8,6,23
+02. RegularAccount,60236763,Oliver Antony Polo Pizan,11,5,7,23
+02. RegularAccount,60255963,Javier Yeremy Jara Caycho,8,8,6,22
+02. RegularAccount,60217644,Alexander Ortega Vidal,11,4,7,22
+02. RegularAccount,60237262,Piero Alexanders Congacha Maldonado,13,7,2,22
+02. RegularAccount,60236160,Gian Franko Valdera Sanchez,15,6,1,22
+02. RegularAccount,60233878,Luz Aurora Cango.Jimenez,13,2,6,21
+02. RegularAccount,60232006,Gean Pool Eugenio Calla Ticlla,8,5,8,21
+02. RegularAccount,60258569,Jean Franco Aaron Colchado Mena,8,4,9,21
+02. RegularAccount,60236928,Eugenia Celia Masgo Valladares,9,4,8,21
+02. RegularAccount,60238654,Luis Abner Carbajal Montero,7,8,5,20
+02. RegularAccount,60261668,Marcia Nazario Jorge,9,5,6,20
+02. RegularAccount,60249250,Hiler Emanuel Mendizabal Vento,11,5,4,20
+02. RegularAccount,60241902,Julio Cesar Sandoval Araujo,11,5,4,20
+02. RegularAccount,60255810,Noe Mequias Balboa Carrasco,10,6,4,20
+02. RegularAccount,60250428,Leonardo Favio Cornejo Valladares,10,3,6,19
+02. RegularAccount,60255343,Jairo Osorio Campana,9,7,3,19
+02. RegularAccount,60246296,Larry Jean Avalo Huiman,8,4,7,19
+02. RegularAccount,60214657,Joel Frank Vite Guerra,10,6,2,18
+02. RegularAccount,60236548,Ramon Velasquez Cruz,7,7,4,18
+02. RegularAccount,60215586,Anderson Bryan Esteban Sedano,8,5,5,18
+02. RegularAccount,60234539,William Condori Mamani,13,2,3,18
+02. RegularAccount,60247432,Adolfo Diego Torres Qquenta,8,5,5,18
+02. RegularAccount,60259798,Roger Carlos Garcia Flores,8,3,6,17
+02. RegularAccount,60223781,Mauro Victor Carpio Pino,7,7,3,17
+02. RegularAccount,60243712,Jose Antonio Conde Arocutipa,12,3,2,17
+02. RegularAccount,60225035,Danny Omar Concha,10,4,3,17
+02. RegularAccount,60225157,Henrry Juniors Baldera Yoanaque,7,4,6,17
+02. RegularAccount,60219010,Heyver Porfirio Mamani Quispe,7,5,5,17
+02. RegularAccount,60220109,Jefersson Yuri Santiani Espinoza,6,5,6,17
+02. RegularAccount,60232619,Alexis Omar Seminario Dioses,8,4,4,16
+02. RegularAccount,60220855,Sergio Jean Pierre Campos Solano,8,3,5,16
+02. RegularAccount,60252440,Yolvi Saul Rosas Moreno,12,2,2,16
+02. RegularAccount,60247977,Hugo Alberto Paredes Chueca,10,3,3,16
+02. RegularAccount,60233945,Breshman Paul Berrocal Ccorahua,6,4,5,15
+02. RegularAccount,60250670,Veronica Aurelia Masgo Valladares,4,6,5,15
+02. RegularAccount,60262298,Omar Piero Salvador Falconi,5,4,6,15
+02. RegularAccount,60252601,Lourdes Marina Alburqueque Torres,8,3,4,15
+02. RegularAccount,60232511,Raul Octavio Manrique Manrique,8,3,4,15
+02. RegularAccount,60225342,Dariem Alberto Meza Chuquillanqui,7,3,4,14
+02. RegularAccount,60251548,Edwin Jesus Magino Bravo,8,2,4,14
+02. RegularAccount,60265496,Aldo Estewar Garcia Flores,7,2,5,14
+02. RegularAccount,60229972,Luis Alberto Pachas Ojeda,5,6,3,14
+02. RegularAccount,60251617,Miguel Otniel Reyes Aldana,6,2,6,14
+02. RegularAccount,60230156,Jahaira Victoria Revolledo Saavedra,7,3,4,14
+02. RegularAccount,60248959,Jaime Alfredo Gutierrez Alva,7,3,4,14
+02. RegularAccount,60257337,Javier Edu Castro Salazar,7,2,4,13
+02. RegularAccount,60218263,Pedro Alberto De La Cruz Jimenez,6,2,5,13
+02. RegularAccount,60216472,Jorge Cabrera,6,4,3,13
+02. RegularAccount,60242788,Omar Ali Espinoza Coronado,6,6,1,13
+02. RegularAccount,60264979,Carlos Arturo Risco Cruz,7,2,4,13
+02. RegularAccount,60265198,Luis Juaquin Arroyo Monteras,9,3,1,13
+02. RegularAccount,60242824,Pedro Humberto Cayo Cabanillas,7,4,1,12
+02. RegularAccount,60224633,Julio Montoya Perez,9,2,1,12
+02. RegularAccount,60246870,Wilder James Cotrina De La Cruz,8,2,2,12
+02. RegularAccount,60233814,Marlon Huayllahua Lomas,5,3,4,12
+02. RegularAccount,60235184,Martin Julian Montes Alvarez,5,6,1,12
+02. RegularAccount,60239047,Luis Daniel Piñero Garcia,3,6,3,12
+02. RegularAccount,60245887,Diego Armando Dextre Carbajal,6,2,4,12
+02. RegularAccount,60218539,German Alex Luque Corimayhua,9,2,1,12
+02. RegularAccount,60262928,Dalila Dolores Mena Lupuche,8,0,4,12
+02. RegularAccount,60255341,Luis Jesus Torres Vallejos,5,3,4,12
+02. RegularAccount,60224787,Walter Rojas Freitas,7,4,1,12
+02. RegularAccount,60251566,Guido Huaman Ccorahua,4,3,5,12
+02. RegularAccount,60237405,Alexander Jhair Congacha Maldonado,4,2,5,11
+02. RegularAccount,60250292,John Antony Sandoval Nuñez,6,2,3,11
+02. RegularAccount,60255057,Miquer Samihe Villar Condori,5,3,3,11
+02. RegularAccount,60243609,Luis Felipe Satornicio,6,1,4,11
+02. RegularAccount,60263200,Yonelly Marithe Uchofen Colchon,5,3,3,11
+02. RegularAccount,60268020,Joel Jonathan Jara Guerra,5,4,2,11
+02. RegularAccount,60228081,Cesar Parrillo Quispe,6,3,2,11
+02. RegularAccount,60261399,Yaritza Carolina Coronado Montoya,8,3,0,11
+02. RegularAccount,60234236,Jean Piere Torres Quispe,7,2,2,11
+02. RegularAccount,60231861,Lemer Vargas Aranda,6,2,3,11
+02. RegularAccount,60265816,Fredy Rolando Altamirano Castillo,6,1,3,10
+02. RegularAccount,60242913,Eduard Ivan Agip Villanueva,6,1,3,10
+02. RegularAccount,60218261,Logan Manuel Lopez Solis,5,2,3,10
+02. RegularAccount,60256516,Maria Angelica Cordova Quesada,6,0,4,10
+02. RegularAccount,60252734,Gonzalo Lope Chappa,4,2,4,10
+02. RegularAccount,60268744,Nohelia Alejandra Garcia Ocando,3,4,2,9
+02. RegularAccount,60218132,Jimmy Ronald Zapata Palomino,4,3,2,9
+02. RegularAccount,60233959,Angelo Gabriel Caceres Boza,2,4,3,9
+02. RegularAccount,60249038,Ramiro Bustamante Puma,4,2,3,9
+02. RegularAccount,60254758,Renzo Antony Allcca Torres,4,4,1,9
+02. RegularAccount,60234557,Miguel Angel Marquez Sanchez,2,3,4,9
+02. RegularAccount,60251735,Fresy Milagros Chota Chota,4,4,1,9
+02. RegularAccount,60241925,Joel Julon Gutierrez,3,4,2,9
+02. RegularAccount,60252939,David Fajardo Mendivil,3,5,1,9
+02. RegularAccount,60223627,Jesus Homer Vincula Ambrosio,5,1,3,9
+02. RegularAccount,60254649,Arnold Junior Garcia Ojanama,5,2,2,9
+02. RegularAccount,60270617,Jahir Jesus Huiza Yacolca,3,2,3,8
+02. RegularAccount,60229669,Efrain Sisa Ala,5,0,3,8
+02. RegularAccount,60254094,Heiker Jhon Chinchay Campomanes,3,1,4,8
+02. RegularAccount,60262170,Catherin Andrea Justiniano Garcia,3,4,1,8
+02. RegularAccount,60233268,Freddy Zavaleta Yupanqui,2,1,5,8
+02. RegularAccount,60262276,Luis Miguel De La Cruz Yalle,7,0,1,8
+02. RegularAccount,60257926,Roger Ivan Solari Ormaeche,4,0,4,8
+02. RegularAccount,60250271,Edinson Reategui Lavi,3,3,2,8
+02. RegularAccount,60259528,Moises Sanchez,6,1,1,8
+02. RegularAccount,60268440,Hernan Antonio Quispe Cama,5,2,1,8
+02. RegularAccount,60241566,Jassir Marquez Contreras,5,1,2,8
+02. RegularAccount,60227422,Victor Bryan Bastidas Quispe,4,2,2,8
+02. RegularAccount,60230369,Nicolle Margarita Pelayo Revolledo,5,2,1,8
+02. RegularAccount,60251365,Jose Tapia,4,1,3,8
+02. RegularAccount,60269720,Ruben Ventura,5,2,0,7
+02. RegularAccount,60241510,Jorge Telles,4,2,1,7
+02. RegularAccount,60230513,Jorge Luis Valdez Robles,3,2,2,7
+02. RegularAccount,60224097,Antonio Ojeda Sanchez,4,1,2,7
+02. RegularAccount,60268571,Jhon Amador Roman Cruz,3,1,3,7
+02. RegularAccount,60251676,Angel Rafael Severino Garcia,1,5,1,7
+02. RegularAccount,60260724,Jhonatan Jherson Campos Damian,4,2,1,7
+02. RegularAccount,60231904,Eduardo Martin Tellez Davalos,2,2,3,7
+02. RegularAccount,60264195,Roel Otoniel Engracio Alvarado,3,1,3,7
+02. RegularAccount,60252494,Steven Nicols Atuncar Valerio,6,0,1,7
+02. RegularAccount,60231339,Guillermo Orellana,5,0,2,7
+02. RegularAccount,60243608,Luis Huillca Quibio,4,1,2,7
+02. RegularAccount,60268875,Jorge Ronald Mendoza Callupe,4,2,1,7
+02. RegularAccount,60227191,Josue Paul Layme Falcon,4,2,1,7
+02. RegularAccount,60259971,Kevin Junior Nolberto Huaman,4,2,1,7
+02. RegularAccount,60244020,Richard Vidal,4,2,1,7
+02. RegularAccount,60262022,Jonathan Alexis Zavala Zavala,5,2,0,7
+02. RegularAccount,60244194,Fatima Napa Chipana,4,0,3,7
+02. RegularAccount,60262994,Marcos Daniel Purizaca Neyra,2,4,1,7
+02. RegularAccount,60244733,Yony Eloy Becerra Dueñas,5,2,0,7
+02. RegularAccount,60264656,Leticia Vivien Diaz Benites,2,1,4,7
+02. RegularAccount,60217526,Junior La Rosa,3,3,1,7
+02. RegularAccount,60265374,Fernando Elias Pacaya Chauca,6,1,0,7
+02. RegularAccount,60246605,Rosa Jualiana Bravo Uculmana,4,2,1,7
+02. RegularAccount,60227457,Rafael Pujay Reyes,6,0,1,7
+02. RegularAccount,60233816,Sandoval Romero Grettythalia,3,2,2,7
+02. RegularAccount,60250559,Jean Carlos Marco Rondan Oncoy,4,1,2,7
+02. RegularAccount,60257977,Linder Lopez Villacrez,4,1,2,7
+02. RegularAccount,60269187,Leonid Cubas,4,2,1,7
+02. RegularAccount,60258317,Jorge Alejandro Romero,3,3,1,7
+02. RegularAccount,60269757,Gabriela Alexandra Vargas Flores,3,2,2,7
+02. RegularAccount,60259260,Diego Francisco Delgado Calderon,3,2,2,7
+02. RegularAccount,60248660,Roberto Carlos Yañez Jara,5,2,0,7
+02. RegularAccount,60242007,Jorge Luis Durand Sandoval,3,1,2,6
+02. RegularAccount,60271372,Judith Elizabeth Ventura Guevara,3,2,1,6
+02. RegularAccount,60259321,Yeferson Nuñez Puga,5,1,0,6
+02. RegularAccount,60259640,Adrian Mirko Canales Millones,5,0,1,6
+02. RegularAccount,60259278,Nelson Segundo Huacho Flores,4,0,2,6
+02. RegularAccount,60259694,Mel Antonio Cuti Angulo,4,2,0,6
+02. RegularAccount,60246468,Cesar Adrian Pimentel Quiñones,1,3,2,6
+02. RegularAccount,60238548,Juan Augusto Acosta Chacon,3,1,2,6
+02. RegularAccount,60266980,Freddy Alessandro Quispe Paredes,2,2,2,6
+02. RegularAccount,60218090,John Jeihson Saldaña More,4,1,1,6
+02. RegularAccount,60269254,Dealessandro Risser Rodriguez Valencia,4,2,0,6
+02. RegularAccount,60260033,Bryan Joseph Steven Martinez Arce,1,2,3,6
+02. RegularAccount,60270113,Elizabeth Anais Espinoza Ramirez,3,1,2,6
+02. RegularAccount,60244695,Jean Paul Morales Galvez,3,0,3,6
+02. RegularAccount,60220435,Felipe Quispe Sullcaray,3,1,2,6
+02. RegularAccount,60261704,Keiber Barrientos,3,2,1,6
+02. RegularAccount,60271074,Vanessa Ortiz,4,2,0,6
+02. RegularAccount,60262271,Eduardo Jaime Quispe Pizarro,3,2,1,6
+02. RegularAccount,60250294,Pedro Rafael Lujan Tambo,3,3,0,6
+02. RegularAccount,60251095,Rogger Nilthon Tocca Enriquez,2,2,2,6
+02. RegularAccount,60242477,Leandro Frank Mayhua Huapaya,3,3,0,6
+02. RegularAccount,60262606,Daniel Augusto Yarleque Infante,4,0,2,6
+02. RegularAccount,60247276,Jorge Antonio Ravello Ramos,3,2,1,6
+02. RegularAccount,60263132,Jonathan Torres Chavez,2,2,2,6
+02. RegularAccount,60242433,Armandina Muñoz Benites,1,2,3,6
+02. RegularAccount,60249398,Huber Arturo Yauli Ccoata,3,2,1,6
+02. RegularAccount,60269852,Hitler Pascual Huaranga,4,2,0,6
+02. RegularAccount,60252568,Jose Santos Infante Zapata,3,2,1,6
+02. RegularAccount,60270186,Raul Pablito Quispe Asto,0,3,3,6
+02. RegularAccount,60255818,Brandock Montes,4,0,2,6
+02. RegularAccount,60271026,Edwar Omar Marquina Infantes,4,1,1,6
+02. RegularAccount,60264898,Erika Leonela Huisa Villasante,2,3,1,6
+02. RegularAccount,60271351,Benjamin Israel Bautista Huaman,3,1,2,6
+02. RegularAccount,60270101,José Carlos Ccarhuas Giron,3,1,1,5
+02. RegularAccount,60259936,Dilser Riosgarcia,4,0,1,5
+02. RegularAccount,60270445,Joe Rodriguez,1,3,1,5
+02. RegularAccount,60267180,Jean Franco Incacutipa Cuayla,2,0,3,5
+02. RegularAccount,60269857,Jhonatan Benites Trujillo,4,1,0,5
+02. RegularAccount,60250326,Tito Filemon Hurtado Pascual,1,1,3,5
+02. RegularAccount,60224884,Veronica Cordova,3,1,1,5
+02. RegularAccount,60263241,Richard Alexander Rojas Neciosup,3,2,0,5
+02. RegularAccount,60270503,Henry Riojas Moreno,3,1,1,5
+02. RegularAccount,60236339,Jhoel Jhonatan Ramos Candiotti,2,2,1,5
+02. RegularAccount,60265978,Elizabeth Pacheco Torres,3,1,1,5
+02. RegularAccount,60250697,Rene Ruelas Casilla,3,0,2,5
+02. RegularAccount,60270053,Jhairo Alexander Hurtado Felix,3,2,0,5
+02. RegularAccount,60264646,Pilar Paredes Sifuentes,4,0,1,5
+02. RegularAccount,60249105,Alexander Ochoa Vargas,1,2,2,5
+02. RegularAccount,60259241,Mayra Sanchez Lucano,1,2,2,5
+02. RegularAccount,60270299,Jose Rojas,1,1,3,5
+02. RegularAccount,60230425,Luis Valverde Martinez,2,1,2,5
+02. RegularAccount,60270495,Oscar Alberto Mondragon Zeña,2,1,2,5
+02. RegularAccount,60269616,Jose Luis Felipe Coloma Peña,2,2,1,5
+02. RegularAccount,60270508,Rubi Lalupu Chiroque,2,1,2,5
+02. RegularAccount,60260823,Jesus Gabriel Hilario Claro,1,3,1,5
+02. RegularAccount,60270751,Alvaro Martin Galvez Galvez,1,3,1,5
+02. RegularAccount,60239703,Lebi Zeballos Pardo,3,0,2,5
+02. RegularAccount,60255326,Justo Aliardo Fumachi Inuma,4,0,1,5
+02. RegularAccount,60248295,Briset Asley Sanchez Gallardo,2,1,2,5
+02. RegularAccount,60246513,Jan Carlos Yurivilca Gutierrez,2,3,0,5
+02. RegularAccount,60225666,Jose Alejandro Mio Sanchez,1,2,2,5
+02. RegularAccount,60254912,Niver Steew Concha Navarro,4,1,0,5
+02. RegularAccount,60235926,Alex Pelaez,3,1,0,4
+02. RegularAccount,60271488,Sergio Rios,3,1,0,4
+02. RegularAccount,60264894,Julio Jhoel Palomino Diaz,1,2,1,4
+02. RegularAccount,60255834,Yonatan Arturo Valverde Bello,1,0,3,4
+02. RegularAccount,60236758,Jose Luis Castro Ochoa,2,0,2,4
+02. RegularAccount,60266907,Jhonatan Eduardo Vereau Acosta,3,0,1,4
+02. RegularAccount,60255299,Yerson Deivis Ayala Cueva,3,0,1,4
+02. RegularAccount,60261202,Paul Gomez,2,1,1,4
+02. RegularAccount,60223188,Eduardo Caceres Sarrin,2,1,1,4
+02. RegularAccount,60267819,Joseph Verastegui,2,1,1,4
+02. RegularAccount,60272669,Paul Piero Valverde Vilcahuaman,1,2,1,4
+02. RegularAccount,60267831,Franchesca Arcos Murgueytio,1,2,1,4
+02. RegularAccount,60263741,Kevin Yeral Fernandez Quispe,2,0,2,4
+02. RegularAccount,60256595,Brayan Huillca,1,2,1,4
+02. RegularAccount,60270534,Rodrigo Palacios,1,3,0,4
+02. RegularAccount,60268590,Jhonny Brayan Clemente Espinoza,2,0,2,4
+02. RegularAccount,60270848,Frank Cesar Alejos Tirado,2,0,2,4
+02. RegularAccount,60222385,Ruben Equicio Epiquen Vera,1,1,2,4
+02. RegularAccount,60264971,Linda Lucia Garcia Apolo,2,1,1,4
+02. RegularAccount,60220415,Jim Sam Solorzano Fonseca,2,1,1,4
+02. RegularAccount,60271424,Jhosep Pio Diaz Gonzales,3,0,1,4
+02. RegularAccount,60258124,Veronica Ariana Fernandez Davila Rosario,1,3,0,4
+02. RegularAccount,60271951,Sonia Espinoza Chincha,3,0,1,4
+02. RegularAccount,60262624,Harold Piero Lezameta Tuanama,1,2,1,4
+02. RegularAccount,60258368,Yeral Deybi Torneros,4,0,0,4
+02. RegularAccount,60269867,Diego Palomino Salvatierra,2,2,0,4
+02. RegularAccount,60267266,Jorge Luis Del Campo Cholan,1,2,0,3
+02. RegularAccount,60271696,Alejandro Olivares Lopez,0,1,2,3
+02. RegularAccount,60257108,Paul Alejandro Chura Guere,2,1,0,3
+02. RegularAccount,60254644,Josuee Isai Giron Bereche,2,0,1,3
+02. RegularAccount,60272871,Roger Eriko Pinedo Navarro,2,0,1,3
+02. RegularAccount,60235577,Darwin Abel Calvo Sanchez,2,1,0,3
+02. RegularAccount,60267070,Agustin Peña Terrones,1,1,1,3
+02. RegularAccount,60270045,Miguel Fabricio Medina Arbizu,2,1,0,3
+02. RegularAccount,60237878,Jhan Eduar Linares Estrada,2,0,1,3
+02. RegularAccount,60267348,Carlos Garcia Acaro,1,1,1,3
+02. RegularAccount,60272317,Karim Javier Cadillo Marcelo,3,0,0,3
+02. RegularAccount,60242292,Jancarlo Caisahuana Donato,2,1,0,3
+02. RegularAccount,60273517,Alonso Huallanca,2,0,1,3
+02. RegularAccount,60237812,Sarahit Garcia,2,0,1,3
+02. RegularAccount,60268735,Israel Socrates Merino Neyra,2,1,0,3
+02. RegularAccount,60258687,Moises Flores,2,1,0,3
+02. RegularAccount,60242503,Christopher Steven Cardoza Viera,2,1,0,3
+02. RegularAccount,60249963,Kevin Lezma Julca,2,1,0,3
+02. RegularAccount,60261758,Abraham Elvis Lucio Guevara,1,1,1,3
+02. RegularAccount,60273867,Jonathan Miguel Cajusol Vidaurre,2,0,1,3
+02. RegularAccount,60253935,Mirian Mostacero,3,0,0,3
+02. RegularAccount,60263379,Grover Nuñez,3,0,0,3
+02. RegularAccount,60257964,Jose Chafloque Liza,1,1,1,3
+02. RegularAccount,60256538,Diego Andres Sanchez Mateo,2,0,1,3
+02. RegularAccount,60243656,Jin Colchado,0,2,1,3
+02. RegularAccount,60261406,Angel Gabriel Fernandez Carrascl,2,0,1,3
+02. RegularAccount,60273238,Luis Fernando Nicolas Ledesma,2,1,0,3
+02. RegularAccount,60261607,Jhonatan Aldair Panta Cordova,2,0,1,3
+02. RegularAccount,60273812,Edwin Elias Tapia Garcia,2,1,0,3
+02. RegularAccount,60267022,Willian Ricki Viglianzona Rojas,1,1,1,3
+02. RegularAccount,60224468,Jhordany Gutierrez Reynoso,1,0,2,3
+02. RegularAccount,60223063,Anibal Mendoza Alejo,1,1,1,3
+02. RegularAccount,60273501,Kelly Peche,1,0,1,2
+02. RegularAccount,60252099,Juan Carlos Molina Vilchez,1,1,0,2
+02. RegularAccount,60265089,Abel Luis Martinez Aquino,0,1,1,2
+02. RegularAccount,60252860,Carolina Martinez Luna,1,0,1,2
+02. RegularAccount,60272370,Fabrizio Abel Escobal Timoteo,2,0,0,2
+02. RegularAccount,60245413,Jhosep Smion Paucar Laguna,2,0,0,2
+02. RegularAccount,60270006,Erick Junior Tapia Lezama,0,1,1,2
+02. RegularAccount,60266368,Stefany Katia Tafur Masgo,1,1,0,2
+02. RegularAccount,60263164,Rogelio Eduardo Torres Quenta,1,1,0,2
+02. RegularAccount,60259386,Lizbeth Luzvenia Camacho Florez,0,1,1,2
+02. RegularAccount,60263813,Pedro Francisco Jimenez Diaz,1,0,1,2
+02. RegularAccount,60266978,Gilber Mendoza Valqui,2,0,0,2
+02. RegularAccount,60272921,Max Sandro Gamboa Morales,1,0,1,2
+02. RegularAccount,60245425,Manuel Seclen,2,0,0,2
+02. RegularAccount,60274181,Andy Rolly Pinedo Benzaquen,1,0,1,2
+02. RegularAccount,60259807,Steban Efrain Rojas Amante,1,1,0,2
+02. RegularAccount,60235430,Roller Manuel Pupuche Monja,2,0,0,2
+02. RegularAccount,60254962,Jose Domingo Fernandez Davila Tello,2,0,0,2
+02. RegularAccount,60251643,Luis Guillermo Wendell Farfan,2,0,0,2
+02. RegularAccount,60260948,Antony Saturnino Tintaya Sahuanay,2,0,0,2
+02. RegularAccount,60271040,Maria Del Carmen Ayarza Padilla,0,0,2,2
+02. RegularAccount,60260976,Lizeth Quiñones,2,0,0,2
+02. RegularAccount,60227162,Diego Romero,1,1,0,2
+02. RegularAccount,60246932,Roger Chino Huanca,0,0,2,2
+02. RegularAccount,60272123,Yonatan Martin Ccaihuari Hoyos,0,1,1,2
+02. RegularAccount,60269261,Renzo Andy Gutierrez Alvarez,0,1,1,2
+02. RegularAccount,60258122,Juan Jose Regis Benavides,1,0,1,2
+02. RegularAccount,60255464,Jean Carlos Ramos Quispe,1,0,1,2
+02. RegularAccount,60273491,Claudia Del Pilar Armas Saavedra,0,0,2,2
+02. RegularAccount,60220693,Raul Armando Machuca Romero,0,1,1,2
+02. RegularAccount,60249363,Luis Paredes Victoriano,1,0,1,2
+02. RegularAccount,60269991,Fernando Perez,2,0,0,2
+02. RegularAccount,60269994,Saul Leandro Vilca Quispe,1,0,1,2
+02. RegularAccount,60234135,Eloise Soria Ugarte,2,0,0,2
+02. RegularAccount,60274692,Cristian David Cabrejos,1,0,0,1
+02. RegularAccount,60258116,Nelson Peñaloza Fernandez,0,1,0,1
+02. RegularAccount,60263564,Luis David Ruiz Diaz,1,0,0,1
+02. RegularAccount,60230663,Guillermo Andre Velarde Marin,1,0,0,1
+02. RegularAccount,60265288,Ana Paula Ramirez Macedo,1,0,0,1
+02. RegularAccount,60269614,Cleyder Salvador Aguilar,1,0,0,1
+02. RegularAccount,60259981,Otniel Ismael Moreno Hernandez,0,0,1,1
+02. RegularAccount,60240676,Ingrid Julissa Gutierrez Yupanqui,0,0,1,1
+02. RegularAccount,60230158,Jhon Carlo Cruz Panta,1,0,0,1
+02. RegularAccount,60255396,Eusmari Nava,1,0,0,1
+02. RegularAccount,60236062,Lenin Medina,1,0,0,1
+02. RegularAccount,60269755,Leonel Alegria Martinez,1,0,0,1
+02. RegularAccount,60252715,Angelica Pazo Panta,1,0,0,1
+02. RegularAccount,60259657,Reyna Vega Martin,0,1,0,1
+02. RegularAccount,60250671,Juan Carlos Piscoya Siesquen,0,1,0,1
+02. RegularAccount,60261702,Roger Soto,0,0,1,1
+02. RegularAccount,60236929,Keiko Leyva Ramos,1,0,0,1
+02. RegularAccount,60240897,Cris Araceli Cabezas Reyes,1,0,0,1
+02. RegularAccount,60254966,Yenko Juan Salvatierra Sanchez,0,1,0,1
+02. RegularAccount,60234551,Elmer Ivan Guevara Arevalo,1,0,0,1
+02. RegularAccount,60258064,Erika Sanchez,1,0,0,1
+02. RegularAccount,60269973,Cesar Villanueva,1,0,0,1
+02. RegularAccount,60253600,Jennyfer Margot Gil Murga,0,1,0,1
+02. RegularAccount,60236408,Erika Cecilia Perez Chonate,0,1,0,1
+02. RegularAccount,60269185,Cortez Cortez,1,0,0,1
+02. RegularAccount,60249708,Carlos Kennedy Silva Rodriguez,1,0,0,1
+02. RegularAccount,60273561,Micaela Muñoz,1,0,0,1
+02. RegularAccount,60267395,Jose Luis Lucar Ortecho,1,0,0,1
+02. RegularAccount,60269195,Junior Pilar,1,0,0,1
+02. RegularAccount,60270027,Dante Iparraguirre,1,0,0,1
+02. RegularAccount,60274925,Oriana Gabriela Obregon Chilingano,1,0,0,1
+02. RegularAccount,60267483,Luis Anthony Olaya Castillo,1,0,0,1
+02. RegularAccount,60257907,Raul Cordova Vite,1,0,0,1
+02. RegularAccount,60267588,Raul Bustamante,0,1,0,1
+02. RegularAccount,60271367,Ireno Campos Delgado,0,0,1,1
+02. RegularAccount,60256445,Gabriela Susana Rojas Tiparra,0,0,1,1
+02. RegularAccount,60271375,Jose Daniel Sanchez Colinas,1,0,0,1
+02. RegularAccount,60248320,Hector Andres Camargo Sulla,1,0,0,1
+02. RegularAccount,60263739,Felix Javier Hernandez Vasquez,1,0,0,1
+02. RegularAccount,60248571,Karol Valodia Malpartida Ortega,1,0,0,1
+02. RegularAccount,60271901,Francesco Javier Zarate Bastidas,1,0,0,1
+02. RegularAccount,60270195,Miguel Angel Ramirez Azabache,1,0,0,1
+02. RegularAccount,60268591,Ely Araujo Mundaca,1,0,0,1
+02. RegularAccount,60219018,Jorge Luis Rodrigo Primo,1,0,0,1
+02. RegularAccount,60234001,Cristian Jonathan Roalcaba Farfan,1,0,0,1
+02. RegularAccount,60270402,Liliana Isabel Estrada Niño,0,0,1,1
+02. RegularAccount,60253446,Ruslan Edinson Vilcapaza Puma,1,0,0,1
+02. RegularAccount,60219515,Sandra Johanna Fernandez Torres,1,0,0,1
+02. RegularAccount,60273219,Jacqueline Santamaria,0,1,0,1
+02. RegularAccount,60262672,Kimberly Viera,1,0,0,1
+02. RegularAccount,60269078,Cecilio Rafael Canelon Rodriguez,0,1,0,1
+02. RegularAccount,60262849,Raul Rojas Guevara,0,1,0,1
+02. RegularAccount,60273507,Endder Rafael Martinez Quiroz,0,0,1,1
+02. RegularAccount,60257120,Joel Arqque,0,0,1,1
+02. RegularAccount,60273519,Alex Andre Santiago Navarro,1,0,0,1
+02. RegularAccount,60275030,Gresia Yassmin Carrasco Veloz,0,1,0,1
+02. RegularAccount,60273626,Walter Raul Fernandez Dionicio,1,0,0,1
+02. RegularAccount,60263030,Jonathan Jimy Tueros Paredes,0,1,0,1
+02. RegularAccount,60242430,Yower Junior Manayay Damian,1,0,0,1
+02. RegularAccount,60243730,Pedro Luis Purizaca Chunga,1,0,0,1
+02. RegularAccount,60274531,Katherine Gutierrez,1,0,0,1
+02. RegularAccount,60263143,Romario Taipe Huaman,0,0,1,1
+02. RegularAccount,60274841,Jose Rojas,1,0,0,1
+02. RegularAccount,60270987,Joan Pedro Cortez Tapia,1,0,0,1
+02. RegularAccount,60274993,Jose Martin Alcantara Armas,1,0,0,1
+02. RegularAccount,60259939,Brayan Danny Roncal Cabrera,1,0,0,1
+02. RegularAccount,60266539,Sergio Alejandro Morales Dionicio,1,0,0,1
+02. RegularAccount,60257269,Jonathan Jeramy Salazar Herrera,1,0,0,1
+03. ChapaTuBono,60214651,Jeremy Luis Villa Rodriguez,8,7,5,20
+03. ChapaTuBono,60214891,Anarosa Pasache Bravo,11,5,3,19
+03. ChapaTuBono,60211746,Emerson Peña Sanchez,5,4,10,19
+03. ChapaTuBono,60212434,Beltran Zevallos Loayza,7,7,5,19
+03. ChapaTuBono,60212668,Luis Gossett Junior Canchari Gutierrez,7,5,6,18
+03. ChapaTuBono,60212657,Junior De La Cruz,9,5,4,18
+03. ChapaTuBono,60215716,Antonio Roca Reyna,12,3,2,17
+03. ChapaTuBono,60214223,Marlon Rojas Navarro,12,2,3,17
+03. ChapaTuBono,60211847,Jorge Luis Ramos Maquera,10,1,5,16
+03. ChapaTuBono,60212290,Junior Adrian Huamani Caynamari,7,2,6,15
+03. ChapaTuBono,60214409,Pedro Fernando Quispe Colorado,7,4,2,13
+03. ChapaTuBono,60214917,Jhonattan Gonzales Romero,4,7,1,12
+03. ChapaTuBono,60217678,Nick Palomino,8,2,2,12
+03. ChapaTuBono,60216576,Diego Arturo Llanos Lucero,9,1,1,11
+03. ChapaTuBono,60213693,Alonso Leonel Gutierrez Terranova,4,1,4,9
+03. ChapaTuBono,60217539,Sara Morales Aguilar,5,1,3,9
+03. ChapaTuBono,60212420,Yois Yordan Martinez Cervantes,5,1,3,9
+03. ChapaTuBono,60217268,Oliver Rocca,3,4,1,8
+03. ChapaTuBono,60214879,Luis Miguel Choquecahua Rojas,3,3,1,7
+03. ChapaTuBono,60211852,Jose Luis Acevedo Romani,5,1,1,7
+03. ChapaTuBono,60217627,Sara Aguilar Nuevo,2,3,2,7
+03. ChapaTuBono,60214238,Juan Carlos Ochoa Vera,5,2,0,7
+03. ChapaTuBono,60214789,Diego Lucio Vega Quispe,5,0,2,7
+03. ChapaTuBono,60211903,Billy Josue Lopez Bartra,3,3,0,6
+03. ChapaTuBono,60213578,Alex Flores,3,2,0,5
+03. ChapaTuBono,60211802,Salomon Spenser Chisi Chavez,4,1,0,5
+03. ChapaTuBono,60214932,Martin Gutierrez,3,1,1,5
+03. ChapaTuBono,60211963,Eduardo Samuel Urbina Sanchez,4,0,1,5
+03. ChapaTuBono,60212061,Jairo Reyes,1,1,2,4
+03. ChapaTuBono,60214845,Anatoly Even Torres Llaja,2,2,0,4
+03. ChapaTuBono,60215758,Alex Ramos Choquehuayta,3,0,1,4
+03. ChapaTuBono,60214677,Christopher Ratcliffe,1,0,3,4
+03. ChapaTuBono,60211635,Elizabeth Montalvo Diaz,3,0,0,3
+03. ChapaTuBono,60214764,David Aldo Bolivar Escudero,2,1,0,3
+03. ChapaTuBono,60217739,Jorge Luis Angulo Martinez,0,1,1,2
+03. ChapaTuBono,60212201,Esleyther Sixto Torres Sandoval,0,0,2,2
+03. ChapaTuBono,60214248,Wilfredo Miguel Avila Sanchez,1,0,1,2
+03. ChapaTuBono,60216333,Roberto Mosquera Luna,0,1,0,1
+03. ChapaTuBono,60216462,Steve Paucar Narciso,0,1,0,1
+03. ChapaTuBono,60215587,Luis Angel Torres De La Cruz,0,0,1,1
+03. ChapaTuBono,60215494,Moises Gonzales Arce,0,0,1,1
+03. ChapaTuBono,60216274,Adrian Ramirez,1,0,0,1
+03. ChapaTuBono,60217581,Juan Alberto Monzon Melquiades,0,0,1,1
+03. ChapaTuBono,60217602,Jose Felix Leyva Vela,1,0,0,1
+04. Mailing Campaign,60214670,Jhonatan Joel Palomino Medina,9,4,7,20
